@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "my-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "view.html",
+  "scripts": {
+    "test": "echo \"Ошибка: тест не задан\" && exit 1"
+  },
+  "author": "",
+  "window": {
+    "toolbar": false,
+    "width": 1000,
+    "height": 500
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
